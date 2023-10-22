@@ -1,0 +1,15 @@
+const employeeid = 12344;
+let emailid = "deepak@cc.com";
+accountpas = "1123@we";
+location = "Gurguram";
+let mobileno ;
+
+//employeeid = 12332; --> once const declare can not change further.
+ 
+// console.log(employeeid);
+emailid = "deepak@cc.com";
+accountpas = "12EWweed#"
+location = "Banglore";
+
+console.table([employeeid, emailid,accountpas,location,mobileno]);
+
